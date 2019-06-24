@@ -1,4 +1,5 @@
-# namedl-first-proj
+# uniapp-common-component
+
 
 ## Project setup
 ```
